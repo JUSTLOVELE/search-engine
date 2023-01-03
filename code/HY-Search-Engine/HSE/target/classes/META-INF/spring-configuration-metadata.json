@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "projectconfig",
+      "type": "com.hse.env.YmlProjectConfig",
+      "sourceType": "com.hse.env.YmlProjectConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "projectconfig.indexpath",
+      "type": "java.lang.String",
+      "sourceType": "com.hse.env.YmlProjectConfig"
+    }
+  ],
+  "hints": []
+}

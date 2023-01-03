@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: HSE
+  mvc:
+    format:
+      date: yyyy-MM-dd
+
+server:
+  port: 8081
+  tomcat:
+    uri-encoding: UTF-8
+  servlet:
+    context-path: /HSE
+
+logging:
+  level:
+    root: info
+
+projectconfig:
+  logpath: C:\\logs\\
+  indexpath: C:\\logs\\index
